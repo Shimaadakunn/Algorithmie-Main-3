@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "graph_data.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
